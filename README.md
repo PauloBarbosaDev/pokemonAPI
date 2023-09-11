@@ -38,6 +38,30 @@ A Cubos Academy é uma escola com cursos de tecnologia para todos os perfis, do 
 
 ---
 
+## 🎨 Imagens
+
+Fotos de retorno das funções:
+
+### Enpoint para listar os pokemons
+
+![img1](https://github.com/PauloBarbosaDev/pokemonAPI/assets/110968903/a60220d0-2787-436a-a8ee-790e7070c5b7)
+
+
+### Endpoint para listar o pokemon por ID ou Nome
+
+![img2](https://github.com/PauloBarbosaDev/pokemonAPI/assets/110968903/33cf80e7-e5c8-4dfb-9270-2ce9f9eefc3f)
+
+
+### Web
+
+<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+  <img alt="Nome do Projeto" title="Nome do Projeto" src="assets/LightMode.png" width="400px">
+
+  <img alt="Nome do Projeto" title="Nome do Projeto" src="assets/DarkMode.png" width="400px">
+</p>
+
+---
+
 ## 🛣️ Como executar o projeto
 
 Este projeto é dividido em:
