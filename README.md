@@ -51,15 +51,6 @@ Fotos de retorno das funções:
 
 ![img2](https://github.com/PauloBarbosaDev/pokemonAPI/assets/110968903/33cf80e7-e5c8-4dfb-9270-2ce9f9eefc3f)
 
-
-### Web
-
-<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="Nome do Projeto" title="Nome do Projeto" src="assets/LightMode.png" width="400px">
-
-  <img alt="Nome do Projeto" title="Nome do Projeto" src="assets/DarkMode.png" width="400px">
-</p>
-
 ---
 
 ## 🛣️ Como executar o projeto
